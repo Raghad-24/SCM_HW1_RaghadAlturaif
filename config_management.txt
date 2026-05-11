@@ -1,0 +1,1 @@
+Software Configuration Management (SCM) : Controls change, manages versions, reduces problems and improves quality.
